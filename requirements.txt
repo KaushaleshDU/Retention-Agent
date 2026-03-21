@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+sentence-transformers
+xgboost
+scikit-learn
+pandas
+numpy
+streamlit
+joblib
